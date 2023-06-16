@@ -1,3 +1,5 @@
 This is comit from Git Bash
 
 added second line with Git Desktop
+added line through Git Bash
+
