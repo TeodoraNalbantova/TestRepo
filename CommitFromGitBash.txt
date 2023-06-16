@@ -1,1 +1,3 @@
 This is comit from Git Bash
+
+added second line with Git Desktop
