@@ -1,1 +1,4 @@
 This is comit from Git Bash
+
+added line through Git Bash
+
